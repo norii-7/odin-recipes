@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in The Odin Project curriculum. Using all the things we have learned up to this point, we were tasked to creat a basic website that contains recipes. The website looks dogshit in this stage but that's just because we were only using HTML. This website will be edited accordingly as we go down the curriculum and learn about CSS and JavaScript.

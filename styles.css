@@ -1,0 +1,51 @@
+h1.main {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color: white;
+    width: 85%;
+    padding: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    background-color: #f8f1ae;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.Brec {
+    background-color: #f8f1ae;
+    width: 1200px;
+    padding: 30px;
+    border: 5px solid rgb(253, 221, 92);
+    }
+
+.b.main {
+    background-color: #fddd5c;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.ulMain {
+    display: block;
+    background-color: #f8f1ae;
+    width: 400px;
+    padding: 30px;
+    padding-left: 50px;
+    border: 5px solid rgb(253, 221, 92);
+    margin-right: auto;
+    margin-left: auto;
+}
